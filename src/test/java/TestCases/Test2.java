@@ -2,7 +2,7 @@ package TestCases;
 
 import org.testng.annotations.Test;
 
-public class Test1 {
+public class Test2 {
 
     @Test(priority = 1, description = "myfirsttest")
     public void FirstTest()
